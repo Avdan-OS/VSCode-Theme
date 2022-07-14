@@ -15,6 +15,11 @@
                 "label": "AvdanOS Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AvdanOS Dark-color-theme.json"
+            },
+            {
+                "label": "AvdanOS Dark Lights Out!",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AvdanOS Lights Out-color-theme.json"
             }
         ]
     }
